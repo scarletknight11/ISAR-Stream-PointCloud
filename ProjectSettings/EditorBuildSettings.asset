@@ -5,13 +5,16 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Effects/AntiAbsoringMesh/Absoring.unity
+    guid: ab4cb794967b8414a9bc159dc2a54db7
   m_configObjects:
-    Hololight.Stream.XRSettings: {fileID: 11400000, guid: 4403834bcee65064eb8c42c802df6286, type: 2}
+    Hololight.Stream.XRSettings: {fileID: 11400000, guid: 4e427667c23b26f4590d22191a3b82ab, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
-    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 1fbe019866470eb42809a41876ba365f, type: 2}
-    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 889f586616abb8747bfbed635fc23531, type: 2}
-    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: b7fb847fd90e8674383ccaba8d258a5b, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 5819018539157cd4296bce99c88e2782, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 58439cde4ecc518429aeba6161020449, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 48a48de306510bd40a91a61b9ce3308b, type: 2}
   m_UseUCBPForAssetBundles: 0
